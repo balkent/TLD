@@ -1,0 +1,9 @@
+V 1.2
+- correction de la zone du temps pour paris
+
+V 1.1
+- création du laucher
+- créaqtion du raccourcie
+- modification de sont image
+
+V 1.0
